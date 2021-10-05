@@ -1,4 +1,5 @@
-# [prateekralhan.github.io](https://prateekralhan.github.io)
+# [prateekralhan.github.io](https://prateekralhan.github.io) [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 
 ### Scan the QR code to access it through your phone 😃 
 
